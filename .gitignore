@@ -1,0 +1,7 @@
+# Project exclude paths
+/feign-parent/eureka-server/target/
+/feign-parent/feign-consumer/target/
+/feign-parent/feign-provider/target/
+/spring-cloud-parent/eureka-consumer/target/
+/spring-cloud-parent/eureka-provider/target/
+/spring-cloud-parent/eureka-server/target/
